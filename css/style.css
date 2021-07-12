@@ -5,7 +5,7 @@
 }
 body {
 	overflow-x: hidden;
-	max-width: 1440px;
+	max-width: 1920px;
 	width: 100%;
 	margin: 0 auto;
 }
@@ -16,7 +16,7 @@ body {
 	background-size: cover;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
-	max-width: 1440px;
+	max-width: 1920px;
 	width: 100%;
 	height: 960px;
 	margin: 0 auto;
@@ -30,7 +30,7 @@ header {
 	padding: 25px;
 	justify-content: space-around;
 	position: absolute;
-	max-width: 1440px;
+	max-width: 1920px;
 	width: 100%;	
 	z-index: 4;
 }
@@ -206,7 +206,7 @@ header {
 	background-size: cover;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
-	max-width: 1440px;
+	max-width: 1920px;
 	width: 100%;
 	height: 960px;
 	position: relative;
@@ -218,7 +218,7 @@ header {
 	background-size: cover;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
-	max-width: 1440px;
+	max-width: 1920px;
 	width: 100%;
 	height: 960px;
 }
@@ -226,7 +226,7 @@ header {
 	content: "";
 	background-color: #0F0F0F;
 	position: absolute;
-	max-width: 1440px;
+	max-width: 1920px;
     width: 100%;
     height: 960px;
     opacity: 0.9;
@@ -343,7 +343,7 @@ header {
 	position: relative;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
-	max-width: 1440px;
+	max-width: 1920px;
 }			
 #three:after {
 	content: "";
@@ -431,7 +431,7 @@ header {
 	position: relative;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
-	max-width: 1440px;
+	max-width: 1920px;
 }
 #four:after {
 	content: "";
@@ -514,7 +514,7 @@ header {
 	position: relative;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
-	max-width: 1440px;
+	max-width: 1920px;
 }
 #five:after {
 	content: "";
@@ -665,7 +665,7 @@ header {
 	background-size: cover;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
-	max-width: 1440px;
+	max-width: 1920px;
 	width: 100%;
 	height: 960px;
 	position: relative;
